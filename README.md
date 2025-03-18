@@ -1,4 +1,4 @@
-# data-collection-storage
+# Data Collection and Storage Project (TripleTen Bootcamp)
 
 In this project, will be working as an Analyst for a new ride-sharing company that is launching in Chicago. The task is to find patterns in the available information -  understand passenger preferences and the impact of external factors on rides.
 
@@ -62,6 +62,5 @@ Test the hypothesis:
 Set the significance level (alpha) value on your own.
 
 Explain:
-
-how you formed the null and alternative hypotheses
-what criterion you used to test the hypotheses and why
+- how you formed the null and alternative hypotheses
+- what criterion you used to test the hypotheses and why
