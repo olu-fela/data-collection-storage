@@ -1,5 +1,11 @@
 # Data Collection and Storage Project (TripleTen Bootcamp)
 
+This repository contains a Jupyter Notebook with interactive maps.
+
+[View the interactive notebook here](https://nbviewer.org/github/olu-fela/data-collection-storage/blob/main/project.ipynb)
+
+<hr>
+
 Working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago, and tasked to find patterns in the available information. 
 Goal is to understand passenger preferences and the impact of external factors on rides.
 
@@ -7,7 +13,7 @@ Working with a database, will analyze data from competitors and test a hypothesi
 
 **Description of the data**
 
-Working with datasets with info on taxi rides and weather details in Chicago:
+Worked with datasets with info on taxi rides and weather details in Chicago:
 
 1. **Car Company dataset** - `/datasets/moved_project_sql_result_01.csv`. It contains the following data:
     - `company_name`: taxi company name
